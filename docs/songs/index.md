@@ -1,8 +1,9 @@
 ---
-contributors: false
 lastUpdated: false
+contributors: false
+externalLinkIcon: false
+date: 2024-07-24
 ---
-
 # All Songs
 
 All pages here contain songs (in Swahili) that I settle on and decide to learn their lyrics, periodically.
@@ -22,6 +23,9 @@ Update as needed.
 │   ├── README.md
 │   └── songs
 │       ├── 2023-04-10
+
+
+
 │       │   └── index.md
 │       ├── 2023-04-17
 │       │   └── index.md
@@ -30,6 +34,8 @@ Update as needed.
 │   ...
 ├── README.md
 └── yarn.lock
+
+<a href="https://www.epri.com">Epri</a>
 ```
 
 :::
@@ -38,12 +44,13 @@ The pages have a standard format.
 
 ## Format
 
-- Title
-- Links
-  - Youtube
-  - Spotify
-- Lyrics (with translations if available)
+* Title
+* Links
+
+  * Youtube
+  * Spotify
+* Lyrics (with translations if available)
 
 ## Popular songs
 
-- [Tuko tayari (Mwanga Band)](/songs/2023-04-10)
+* [Tuko tayari (Mwanga Band)](/songs/2023-04-10)
