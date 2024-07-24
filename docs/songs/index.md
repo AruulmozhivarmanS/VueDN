@@ -35,12 +35,17 @@ Update as needed.
 ├── README.md
 └── yarn.lock
 
-<a href="https://www.epri.com">Epri</a>
 ```
 
 :::
 
 The pages have a standard format.
+
+```
+
+```
+
+[www.google.com](www.google.com)
 
 ## Format
 
